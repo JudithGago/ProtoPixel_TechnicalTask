@@ -12,7 +12,7 @@ Build the project and flash it to the board, then run the monitor tool to view t
 
 2. Next configure your project using menuconfig. Use the **ESP-IDF: SDK Configuration editor** command (<kbd>CTRL</kbd> <kbd>E</kbd> <kbd>G</kbd> keyboard shortcut ) where the user can modify the ESP-IDF project settings.
 
-   In the `Example Configuration` menu:
+  In the `Example Configuration` menu:
 
    * Set the Wi-Fi configuration.
        * Set `WiFi SSID`.
