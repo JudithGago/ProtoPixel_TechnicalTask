@@ -14,7 +14,7 @@ First clone this repository. Once you have it, before to start to bild and confi
 ### Tools:
 
 1. Download and install [Visual Studio Code](https://code.visualstudio.com/).
-2. ESP-IDF Extension [Install and setup the extension](./docs/tutorial/install.md).
+2. Download and install ESP-IDF Extension [Install and setup the extension](./docs/tutorial/install.md).
 
 ## Next
   1. Build and Flash [Control the Light](https://github.com/JudithGago/ProtoPixel_TechnicalTask/tree/main/LightControl#readme).
