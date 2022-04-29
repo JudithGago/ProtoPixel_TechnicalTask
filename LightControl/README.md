@@ -1,6 +1,6 @@
 # Control the light
 
-This application shows how to use build a controller that can turn on and off the board’s embedded LED light using wireless commands with a test client. 
+This application shows how to build a controller that can turn on and off the board’s embedded LED light using wireless commands with a test client. 
 
 ## How to use the project
 
