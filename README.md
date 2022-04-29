@@ -1,4 +1,4 @@
-# Control the light
+# Control the light - ## Technical Task Firmware Engineer (Internal LEDs)
 
 This application shows how to build a controller that can turn on and off the board’s embedded LED light of an ESP32 Adafruit Feather board using wireless commands with a test client. 
 
