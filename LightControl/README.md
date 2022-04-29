@@ -12,13 +12,13 @@ Build the project and flash it to the board, then run the monitor tool to view t
 
 2. Next configure your project using menuconfig. Use the **ESP-IDF: SDK Configuration editor** command (<kbd>CTRL</kbd> <kbd>E</kbd> <kbd>G</kbd> keyboard shortcut ) where the user can modify the ESP-IDF project settings.
 
->In the `Example Configuration` menu:
+   In the `Example Configuration` menu:
 
-* Set the Wi-Fi configuration.
-    * Set `WiFi SSID`.
-    * Set `WiFi Password`.
+   * Set the Wi-Fi configuration.
+       * Set `WiFi SSID`.
+       * Set `WiFi Password`.
 
-Optional: If you need, change the other options according to your requirements. After all changes are made, click save and close this window
+   >Optional: If you need, change the other options according to your requirements. After all changes are made, click save and close this window
 
 3. Configure the `.vscode/c_cpp_properties.json` as explained in [C/C++ Configuration](../C_CPP_CONFIGURATION.md).
 
