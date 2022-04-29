@@ -1,4 +1,4 @@
-/* * Data converted from /home/judith/Documentos/Technical_Task/LightControl/build/esp-idf/mbedtls/x509_crt_bundle
+/* * Data converted from /home/judith/Documentos/ProtoPixel_TehnicalTask/LightControl/build/esp-idf/mbedtls/x509_crt_bundle
  */
 .data
 .section .rodata.embedded

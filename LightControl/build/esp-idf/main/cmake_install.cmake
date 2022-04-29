@@ -1,4 +1,4 @@
-# Install script for directory: /home/judith/Documentos/Technical_Task/LightControl/main
+# Install script for directory: /home/judith/Documentos/ProtoPixel_TehnicalTask/LightControl/main
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

@@ -1,8 +1,8 @@
 {
     "project_name":       "bootloader",
     "project_path":       "/home/judith/esp/esp-idf/components/bootloader/subproject",
-    "build_dir":          "/home/judith/Documentos/Technical_Task/LightControl/build/bootloader",
-    "config_file":        "/home/judith/Documentos/Technical_Task/LightControl/sdkconfig",
+    "build_dir":          "/home/judith/Documentos/ProtoPixel_TehnicalTask/LightControl/build/bootloader",
+    "config_file":        "/home/judith/Documentos/ProtoPixel_TehnicalTask/LightControl/sdkconfig",
     "config_defaults":    "",
     "app_elf":            "bootloader.elf",
     "app_bin":            "bootloader.bin",
