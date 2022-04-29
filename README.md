@@ -1,2 +1,2 @@
-# ProtoPixel_TehnicalTask
-Technical Task
+# Control the Light
+Technical Task Firmware Engineer (Internal LED)
