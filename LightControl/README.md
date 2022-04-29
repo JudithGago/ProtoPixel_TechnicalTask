@@ -20,7 +20,7 @@ Build the project and flash it to the board, then run the monitor tool to view t
 
    >Optional: If you need, change the other options according to your requirements. After all changes are made, click save and close this window
 
-3. Configure the `.vscode/c_cpp_properties.json` as explained in [C/C++ Configuration](../C_CPP_CONFIGURATION.md).
+3. Configure the `.vscode/c_cpp_properties.json`. You can follow the instructions explained in [C/C++ Configuration](../C_CPP_CONFIGURATION.md).
 
 4. Now to build the project, use the **ESP-IDF: Build your project** command (<kbd>CTRL</kbd> <kbd>E</kbd> <kbd>B</kbd> keyboard shortcut). The user will see a new terminal being launched with the build output and a notification bar with Building Project message until it is done then a Build done message when finished. You could modify the behavior of the build task with `idf.cmakeCompilerArgs` for Cmake configure step and `idf.ninjaArgs` for Ninja step. For example, using  `[-j N]` where N is the number of jobs run in parallel.
 
