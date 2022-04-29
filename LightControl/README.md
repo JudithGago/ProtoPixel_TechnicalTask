@@ -33,6 +33,12 @@ The user will see a new terminal being launched with the flash output and a noti
 
 7. Now to start monitoring your device, use the **ESP-IDF: Monitor your device** command (<kbd>CTRL</kbd> <kbd>E</kbd> <kbd>M</kbd> keyboard shortcut). The user will see a new terminal being launched with the `idf.py monitor` output.
 
+## Turn LED on/off
+
+After flash the project, the user will be able to connect to the esp32 board Wi-Fi with the SSID and password you set at the begining of the configuration. 
+
+Once connected to the esp32 Wi-Fi, to control the internal LED of the esp32 board the user must type http://192.168.4.1/ledoff in his browser. That will send the user to the webserver page were it will find a simple interface that allows the control of the LED by using a virtual button. 
+
 ## Next steps
 
 You can debug ESP-IDF projects as shown in the [debug tutorial](./debugging.md).
