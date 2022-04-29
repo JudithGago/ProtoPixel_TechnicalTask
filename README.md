@@ -4,7 +4,7 @@ This application shows how to build a controller that can turn on and off the bo
 
 ## Prepare your setup
 
-Before to start to build and configure the application the user must clone this repository on his computer, and make sure that has the following required tools and materials.
+Before to start to build and configure the application the user must clone this repository on his computer and make sure that has the following required tools and materials.
 
 ### Materials:
 
