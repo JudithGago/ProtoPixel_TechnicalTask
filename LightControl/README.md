@@ -1,6 +1,6 @@
 # How to use the project
 
-Once you have your setup ready ([Requirements](https://github.com/JudithGago/ProtoPixel_TechnicalTask/blob/main/README.md)), you must configure, build and flash it to the board, then run the monitor tool to view the serial output:
+Once you have your setup ready ([Requirements](https://github.com/JudithGago/ProtoPixel_TechnicalTask/blob/main/README.md)) you must configure, build and flash it to the board, then run the monitor tool to view the serial output:
 
 ## Configuration
 
