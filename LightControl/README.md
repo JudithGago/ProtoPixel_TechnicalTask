@@ -12,11 +12,7 @@ Build the project and flash it to the board, then run the monitor tool to view t
 
 2. Next configure your project using menuconfig. Use the **ESP-IDF: SDK Configuration editor** command (<kbd>CTRL</kbd> <kbd>E</kbd> <kbd>G</kbd> keyboard shortcut ) where the user can modify the ESP-IDF project settings.
 
-<p>
-  <img src="../../media/tutorials/basic_use/gui_menuconfig.png" alt="GUI Menuconfig" height="500">
-</p>
-
-In the `Example Configuration` menu:
+>In the `Example Configuration` menu:
 
 * Set the Wi-Fi configuration.
     * Set `WiFi SSID`.
@@ -37,15 +33,7 @@ Optional: If you need, change the other options according to your requirements. 
 
 The user will see a new terminal being launched with the flash output and a notification bar with `Flashing Project` message until it is done then a Flash done message when finished.
 
-<p>
-  <img src="../../media/tutorials/basic_use/flash.png" alt="Flashing" width="975">
-</p>
-
 7. Now to start monitoring your device, use the **ESP-IDF: Monitor your device** command (<kbd>CTRL</kbd> <kbd>E</kbd> <kbd>M</kbd> keyboard shortcut). The user will see a new terminal being launched with the `idf.py monitor` output.
-
-<p>
-  <img src="../../media/tutorials/basic_use/monitor.png" alt="Monitor" width="975">
-</p>
 
 ## Next steps
 
